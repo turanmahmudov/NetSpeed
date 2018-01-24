@@ -1,0 +1,15 @@
+{
+    "name": "netspeed.turan-mahmudov-l",
+    "description": "A simple application to test your internet download speed",
+    "architecture": "@CLICK_ARCH@",
+    "title": "NetSpeed",
+    "hooks": {
+        "NetSpeed": {
+            "apparmor": "NetSpeed/NetSpeed.apparmor",
+            "desktop": "NetSpeed/NetSpeed.desktop"
+        }
+    },
+    "version": "0.0.1",
+    "maintainer": "Turan Mahmudov <turan.mahmudov@gmail.com>",
+    "framework": "ubuntu-sdk-15.04.6"
+}
