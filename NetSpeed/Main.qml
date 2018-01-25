@@ -10,6 +10,8 @@ MainView {
     width: units.gu(50)
     height: units.gu(75)
 
+    backgroundColor: "#141526"
+
     Page {
         header: PageHeader {
             id: pageHeader

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-01-24 21:46+0000\n"
+"POT-Creation-Date: 2018-01-25 18:10+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: /home/turan/Apps/Ubuntu/NetSpeed/NetSpeed/Main.qml:16
-#: /home/turan/Apps/Ubuntu/build-NetSpeed-UbuntuSDK_for_builder_armhf_GCC_armhf_ubuntu_sdk_15_04-Debug/NetSpeed/NetSpeed.desktop.h:1
+#: /home/turan/Apps/Ubuntu/NetSpeed/NetSpeed/Main.qml:18
+#: /home/turan/Apps/Ubuntu/build-NetSpeed-UbuntuSDK_for_builder_armhf_vivid_GCC_armhf_ubuntu_sdk_15_04-Debug/NetSpeed/NetSpeed.desktop.h:1
 msgid "NetSpeed"
 msgstr ""
