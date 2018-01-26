@@ -1,4 +1,4 @@
-# PockIt
+# NetSpeed
 [![License](https://img.shields.io/badge/license-GPLv3-blue.svg)](http://www.gnu.org/licenses/gpl-3.0.en.html)
 [![GitHub release](https://img.shields.io/github/release/turanmahmudov/NetSpeed.svg)](https://github.com/turanmahmudov/NetSpeed)
 [![GitHub issues](https://img.shields.io/github/issues/turanmahmudov/NetSpeed.svg)](https://github.com/turanmahmudov/NetSpeed/issues)
