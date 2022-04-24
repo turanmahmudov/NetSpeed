@@ -1,12 +1,11 @@
-var css = ["html, body { font-family: Ubuntu !important; background: #141526 !important; color: #9193a8; }",
-        ".speed-results-container.succeeded { color: #fff; }",
-        ".speed-units-container.succeeded { color: #9193a8; }",
-        ".your-speed-message { color: #9193a8; }",
-        ".speed-progress-indicator.succeeded { border-color: #1cbfff; color: #9193a8; }",
-        ".speed-progress-indicator.in-progress > .spinner { box-shadow: 0 .3vh 0 0 #1cbfff; }",
-        ".logo { display: none; }",
-        ".footer-container { display: none; }",
-        ""].join("\n");
+var css = ["html,body{font-family:Ubuntu,sans-serif;background:#141526!important;}*{color:#fff!important;}",
+            ".footer-container{display:none!important;}.powered-by-container{display:none!important;}.logo-container{display:none!important;}",
+            ".speed-container{margin-top:10vh;}",
+            ".usage-info-container{display:none!important;}",
+            ".speed-progress-indicator.succeeded{border-color:#1cbfff!important;}",
+            ".speed-progress-indicator.in-progress>.spinner{box-shadow:0 .3vh 0 0 #1cbfff !important;}",
+            "#show-more-details-link{color:#fff!important;border-color:#fff!important;padding:1.5vh 2vh !important;}"
+        ].join("");
 
 var node = document.createElement("style");
 node.type = "text/css";
@@ -17,9 +16,3 @@ if (heads.length > 0) {
 } else {
     document.documentElement.appendChild(node);
 }
-
-document.getElementsByClassName("share-container")[0].remove();
-document.getElementsByClassName("ookla-container")[0].remove();
-
-document.getElementsByClassName("footer-container")[0].style.display = "none"
-document.getElementsByClassName("logo")[0].style.display = "none"

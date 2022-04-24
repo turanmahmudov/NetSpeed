@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: NetSpeed\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-12 18:23+0000\n"
+"POT-Creation-Date: 2022-04-24 18:13+0000\n"
 "PO-Revision-Date: 2018-02-23 20:49+0100\n"
 "Last-Translator: advocatux <advocatux@airpost.net>\n"
 "Language-Team: UBports Spanish Team\n"
@@ -17,24 +17,19 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: /home/turan/Apps/Ubuntu/NetSpeed/NetSpeed/Main.qml:29
-#: /home/turan/Apps/Ubuntu/build-NetSpeed-UbuntuSDK_for_builder_amd64_vivid_GCC_amd64_ubuntu_sdk_15_04-Debug/NetSpeed/NetSpeed.desktop.h:1
+#: /home/turan/Projects/Ubuntu/NetSpeed/NetSpeed/Main.qml:18
+#: /home/turan/Projects/Ubuntu/NetSpeed/build/x86_64-linux-gnu/app/NetSpeed/NetSpeed.desktop.h:1
 msgid "NetSpeed"
 msgstr "NetSpeed"
 
-#: /home/turan/Apps/Ubuntu/NetSpeed/NetSpeed/Main.qml:40
-#: /home/turan/Apps/Ubuntu/NetSpeed/NetSpeed/Main.qml:106
-msgid "Donate"
-msgstr "Donar"
+#~ msgid "Donate"
+#~ msgstr "Donar"
 
-#: /home/turan/Apps/Ubuntu/NetSpeed/NetSpeed/Main.qml:93
-msgid "Donate me"
-msgstr "Dóname"
+#~ msgid "Donate me"
+#~ msgstr "Dóname"
 
-#: /home/turan/Apps/Ubuntu/NetSpeed/NetSpeed/Main.qml:94
-msgid "Donate to support me continue developing for Ubuntu."
-msgstr "Donar para ayudarme a continuar desarrollando para Ubuntu."
+#~ msgid "Donate to support me continue developing for Ubuntu."
+#~ msgstr "Donar para ayudarme a continuar desarrollando para Ubuntu."
 
-#: /home/turan/Apps/Ubuntu/NetSpeed/NetSpeed/Main.qml:100
-msgid "Ignore"
-msgstr "Ignorar" 
+#~ msgid "Ignore"
+#~ msgstr "Ignorar"

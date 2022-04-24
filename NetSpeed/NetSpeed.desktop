@@ -1,7 +1,8 @@
 [Desktop Entry]
 _Name=NetSpeed
-Exec=qmlscene %U NetSpeed/Main.qml
+Exec=NetSpeed
 Icon=NetSpeed/NetSpeed.png
 Terminal=false
 Type=Application
 X-Ubuntu-Touch=true
+X-Ubuntu-Splash-Color=#141526
